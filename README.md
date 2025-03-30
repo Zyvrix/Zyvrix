@@ -30,9 +30,9 @@ Hi there! I'm **Dinesh**, a passionate Web Developer and Web3 enthusiast with a 
 
 ## 📫 Let's Connect!
 - 🌍 [Portfolio Website](#) *(Coming Soon!)*
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 💼 [LinkedIn](https://linkedin.com/in/yourhandle)
-- 📧 Email: your.email@example.com
+- 🐦 [Twitter](https://twitter.com/amityadv15)
+- 💼 [LinkedIn]([https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/dinesh-yadav-348b6a215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 📧 Email: ay2690357@gmail.com
 
 Let's build something amazing together! 🚀
 
