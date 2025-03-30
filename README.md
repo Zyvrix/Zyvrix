@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Profile!
 
-Hi there! I'm **Dinesh**, a passionate Web Developer and Web3 enthusiast with a strong interest in building modern web applications. I specialize in front-end and full-stack development using the **MERN stack** and have experience in blockchain technologies.
+Hi there! I'm **Dinesh**, a passionate Web Developer with a strong interest in building modern web applications. I specialize in front-end and full-stack development using the **MERN stack**.
 
 ## 🔧 Tech Stack
 
@@ -13,13 +13,6 @@ Hi there! I'm **Dinesh**, a passionate Web Developer and Web3 enthusiast with a 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### 🌐 Web3 & Blockchain
-<p align="left">
-<img src="https://img.shields.io/badge/Web3-15AABF?style=for-the-badge&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/Smart%20Contracts-FFB100?style=for-the-badge&logo=solidity&logoColor=black" />
-<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
 </p>
 
 ### ☁️ Cloud & DevOps
