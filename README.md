@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Profile!
 
-Hi there! I'm **Dinesh**, a passionate Web Developer with a strong interest in building modern web applications. I specialize in front-end and full-stack development using the **MERN stack**.
+Hi, I’m **Dinesh**, a dedicated Full-Stack Web Developer with a strong focus on building scalable, user-centric web applications. I specialize in the **MERN stack** and have hands-on experience creating responsive, high-performance interfaces and robust backend systems.
 
 ## 🔧 Tech Stack
 
