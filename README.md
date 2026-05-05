@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Profile!
 
-Hi, I’m **Dinesh**, a dedicated Full-Stack Web Developer with a strong focus on building scalable, user-centric web applications. I specialize in the **MERN stack** and have hands-on experience creating responsive, high-performance interfaces and robust backend systems.
+Hi, I’m **Dinesh**, a dedicated AI Full-Stack Web Developer with a strong focus on building scalable, user-centric web applications. I specialize in the **MERN stack** and have hands-on experience creating responsive, high-performance interfaces and robust backend systems.
 
 ## 🔧 Tech Stack
 
